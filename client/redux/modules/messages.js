@@ -1,7 +1,7 @@
 import { CALL_API } from 'redux-api-middleware';
 import { push } from 'react-router-redux';
 
-const baseUrl = 'http://51.255.37.131:1337/message';
+const baseUrl = 'http://206.189.200.105/message';
 
 // Constants
 
