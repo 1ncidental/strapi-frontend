@@ -1,7 +1,7 @@
 import { push } from 'react-router-redux';
 import fetch from 'isomorphic-fetch';
 
-const baseUrl = 'http://51.255.37.131:1337';
+const baseUrl = 'http://206.189.200.105:1337';
 
 // Constants
 
